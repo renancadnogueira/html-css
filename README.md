@@ -3,4 +3,4 @@
 
  Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
-<a href="https://github.com/renancadnogueira/html-css/blob/main/exercicios/ex001/index.html"></a>
+<a href="https://renancadnogueira.github.io/projeto-android/"></a>
